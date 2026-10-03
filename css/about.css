@@ -1,0 +1,20 @@
+body{
+  margin: 0;
+}
+.about {
+  text-align: center;
+  padding: 60px 150px;
+  background: lightyellow;
+}
+
+.about h2 {
+  font-size: 36px;
+  color: #0b1a2e;
+  margin-bottom: 10px;
+}
+
+.description {
+  color: #334e68;
+  font-size: 20px;
+  margin-bottom: 20px;
+}

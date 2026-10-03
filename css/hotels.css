@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: #333;
+}
+.about-assam {
+    font-size: 25px;
+    background-color: #fdf6e3;
+}
+.section {
+    display: flex;
+    justify-content: space-between;
+}
+.section-img {
+    width: 40%;
+}
+.section-text {
+    width: 60%;
+    padding: 10px;
+}
+.section-img img {
+    height: 320px;
+    padding: 20px;
+    border-radius: 100px;
+}
+h3 {
+    color: #333;
+}
+

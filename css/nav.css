@@ -1,0 +1,32 @@
+body{
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1a1a2e;
+  padding: 5px 30px;
+  position: fixed;   
+  top: 0;
+  left: 0;
+  width: 100%;
+  box-sizing: border-box; 
+}
+.logo-container img{
+  height: 65px;
+  width: 85px;
+  border-radius: 50%;
+}
+.links-container a {
+  color: white;
+  text-decoration: none;
+  margin-left: 25px;
+  font-size: 18px;
+  transition: color;
+}
+
+.links-container a:hover {
+  color: #00aaff;
+}  
